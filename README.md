@@ -1,6 +1,6 @@
 # Portfolio
 
-##Introduction
+## Introduction
 Hello! My name is Honzi and I am a first year Engeneering/Designer student at Creative Media and Game Technologies at Saxion University of Applied Sciences in Enschede.
 
 ### Experiences and Passions:
